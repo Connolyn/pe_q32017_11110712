@@ -14,21 +14,6 @@ void move(int n, char origem, char destino, char using)
 
 }
 
-
-
-void hanoi(int n){
-/*	int A[n];
-	int topA = n;
-	int B[n];
-	int topB = 0;
-	int C[n];
-	int topC = 0;*/
-
-
-	//move(A, C, B, topA, topC, topB);
-
-}
-
 int main()
 {
 	int n;
